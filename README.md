@@ -31,15 +31,6 @@ Part 3 : Exploratory Data Analysis
 
 Part 4 : Answer the Business Questions
 
-	 4.1 How to optimize the social ad campaigns for the highest conversion rate possible. (Attain best Reach to Conversion ratios/Click to Conversion ratios)
-   
-	 4.2 Finding the perfect target demographics with the appropriate clickthrough rates.
-   
-	 4.3 Understanding the ideal turnaround/decision making time per age group to convert and retarget future social campaigns.
-   
-	 4.4 Comparing the individual campaign performance so the best creative/campaign can be run again with adjusted audiences.
-
-
 Part 5 : Insights 
 
 ### Insights from the Project
