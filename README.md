@@ -63,4 +63,5 @@ Part 5 : Insights
    - Campaign_3 (1178) wins the battle due to highest approved_conversion rate [62%] and more number of people buying the product after seeing the ad.
    - Campaign_1 (916) has better performance with 44% approved_conversion rate than Campaign_2 (936) with 37% even though it is less involved with no of ads.
 
-![This is an image](http://localhost:8888/view/anaconda3/Practice%20Stuff/Sales%20Conversion%20Optimization/Campaigns_performance_by_CTR_vs_Spent.png)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
