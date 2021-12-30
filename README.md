@@ -62,7 +62,3 @@ Part 5 : Insights
 
    - Campaign_3 (1178) wins the battle due to highest approved_conversion rate [62%] and more number of people buying the product after seeing the ad.
    - Campaign_1 (916) has better performance with 44% approved_conversion rate than Campaign_2 (936) with 37% even though it is less involved with no of ads.
-
-### Here is an Plot of Different Campaign performance by Click Through Rate vs Spent
-![Here is an Plot of Campaign performace by Click Through Rate vs Spent](https://raw.githubusercontent.com/HimanshuBaswal/Advertising_Marketing_Camapign_Analysis/main/Campaigns_performance_by_CTR_vs_Spent.png)
-
